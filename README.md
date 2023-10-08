@@ -23,3 +23,17 @@ This architecture consists of convolutional layers for feature extraction, max-p
 The dataset was split into training, validation, and test sets with the following proportions: 70% training, 20% validation, and 10% test. The model was trained using binary cross-entropy loss and the Adam optimizer.
 # data set used
 https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset?select=train 
+# Screenshots
+![screenshot1](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot1.jpg)
+![screenshot2](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot2.jpg)
+![screenshot3](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot3.jpg)
+![screenshot4](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot4.jpg)
+![screenshot5](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot5.jpg)
+![screenshot6](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot6.jpg)
+![screenshot7](https://github.com/iampranshu2003/Sleepiness-Prediction-model/blob/main/screenshot7.jpg)
+
+
+
+
+
+
